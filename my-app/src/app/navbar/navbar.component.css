@@ -1,0 +1,17 @@
+
+.search{
+    width: 335px !important
+}
+.btnsearch{
+    background-color: #28a745;
+    color :  white;
+    
+}
+.stylenav a{
+color: white;
+}
+.stylenav a:hover{
+    color: #28a745;
+    font-weight: bold;
+    font-size: 20px;
+    }
